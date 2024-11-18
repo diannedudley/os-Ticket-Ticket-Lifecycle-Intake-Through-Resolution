@@ -25,6 +25,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Internal Communication
 - Ticket Resolution
 
+
 <h2>Lifecycle Stages</h2>
 
 <p>
